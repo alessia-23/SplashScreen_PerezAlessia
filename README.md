@@ -1,33 +1,68 @@
-<h1 align="center">Trabajo en clase - Ejercicios</h1>
-
-## - EJERCICIO 1
-
-### 🔹 Parte 1
-
-<img width="335" height="733" alt="image" src="https://github.com/user-attachments/assets/721019df-0386-47c4-9e42-f5f6fd529d1c" />
+# 📱 Galería de Fotos con Splash Screen e Ícono Personalizado
 
 ---
 
-### 🔹 Parte 2
-
-<img width="388" height="762" alt="image" src="https://github.com/user-attachments/assets/a4fb2689-fcfc-4a63-8bcf-cfda3115be4b" />
-
----
-
-## - EJERCICIO 2
-
-<img width="1145" height="297" alt="image" src="https://github.com/user-attachments/assets/bbd4b928-9024-4956-87af-e82e1e74d7eb" />
+## 📌 Descripción
+Aplicación móvil desarrollada con el objetivo de personalizar la experiencia del usuario mediante la implementación de un **ícono personalizado** y un **Splash Screen** al iniciar la aplicación.
 
 ---
 
-## - EJERCICIO 3
+## 🛠️ Herramientas usadas
+- Android Studio  
+- Visual Studio Code  
+- Ionic  
 
-<img width="310" height="685" alt="image" src="https://github.com/user-attachments/assets/2d01ac82-ac2d-4925-85be-e6a04d7e49a5" />
+---
+
+## 🚀 Instalación y ejecución
+1. Clonar el repositorio  
+2. Instalar las dependencias  
+3. Ejecutar el proyecto  
 
 ---
 
-## - EJERCICIO 4
+## 🖼️ Evidencias de implementación
 
-<img width="392" height="764" alt="image" src="https://github.com/user-attachments/assets/946198d0-6c89-4f5d-ad89-db1cbac144bc" />
+| Splash Screen | Ícono de la app |
+|--------------|----------------|
+| <img width="250" src="https://github.com/user-attachments/assets/c56bd513-5162-499a-89f7-0c6aa62fdac6" /> | <img width="250" src="https://github.com/user-attachments/assets/4e97bc06-a02d-48f4-a0d1-6dd529691c0c" /> |
 
 ---
+
+## ⚙️ Funcionalidades de la app
+
+### 🔔 Alertas
+Se implementó una alerta dentro de la aplicación para interacción con el usuario.
+
+| Tabla | Alerta |
+|------|--------|
+| <img width="250" src="https://github.com/user-attachments/assets/3994a422-0902-4180-9d0f-c5fd69c2a77f" /> | <img width="250" src="https://github.com/user-attachments/assets/ad217173-2e15-4777-9867-e74b4040e816" /> |
+
+---
+
+### 📷 Cámara
+Permite capturar imágenes directamente desde la aplicación.
+
+| Tabla | Cámara |
+|------|--------|
+| <img width="250" src="https://github.com/user-attachments/assets/3cbaefa8-9709-4e26-a9f3-14e42d84c208" /> | <img width="250" src="https://github.com/user-attachments/assets/7fe8bfbb-b0f3-4fbe-8328-f5520e6b3b38" /> |
+
+---
+
+### 🖼️ Galería
+Permite seleccionar imágenes desde la galería del dispositivo.
+
+| Galería |
+|--------|
+| <img width="250" src="https://github.com/user-attachments/assets/da69e20d-9cbe-4ca6-9dbe-75eb81a11e61" /> |
+
+---
+
+## 🎥 Video de prueba
+
+[Ver video de funcionamiento](https://github.com/user-attachments/assets/c7a3784f-3f71-410e-8810-3ef0a2a2572b)
+
+---
+
+## 👩‍💻 Desarrollado por
+Alessia Pérez
